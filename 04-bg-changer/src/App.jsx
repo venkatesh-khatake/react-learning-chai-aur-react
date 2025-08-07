@@ -11,7 +11,7 @@ const App = () => {
           height:"100vh",
           backgroundColor:color,
           display:"flex",
-          // alignItems:"center",
+        
           justifyContent:"center",
         }
       }
