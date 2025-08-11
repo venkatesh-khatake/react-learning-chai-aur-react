@@ -17,7 +17,7 @@ const App = () => {
     }
 
     if (charAllowed) {
-      str += "~`!@#$%^&*(){}[]+-_=";
+      str += "~`!@#$%^&*(){}[]+-=";
     }
 
     for (let i = 1; i <= length; i++) {
